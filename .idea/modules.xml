@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExportaArqCSV-SimpleFactory.iml" filepath="$PROJECT_DIR$/ExportaArqCSV-SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-csv-simple-factory.iml" filepath="$PROJECT_DIR$/import-csv-simple-factory.iml" />
     </modules>
   </component>
 </project>
